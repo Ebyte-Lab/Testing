@@ -6,19 +6,19 @@
 
 We believe in **open collaboration, innovation, and accessibility** — creating technology that anyone can use, improve, and share.
 
----
+
 
 ## ✨ Mission
 
 To create and maintain **open-source software** that helps developers and communities solve real-world problems, while mentoring and uplifting the next generation of innovators.
 
----
+
 
 ## 👀 Vision
 
 To become a **global hub for open-source innovation in Africa**, delivering practical, lightweight, and developer-friendly projects that inspire learning and growth.
 
----
+
 
 ## 💡 Core Values
 
@@ -27,7 +27,7 @@ To become a **global hub for open-source innovation in Africa**, delivering prac
 * **Community Impact** – Building tools that solve real problems.
 * **Innovation** – Simple, practical, and powerful solutions.
 
----
+
 
 ## 📂 Open Source Projects
 
@@ -38,7 +38,7 @@ Some of our initiatives include:
 * 📊 **Automation & Tools** – Scripts and systems to make life easier for developers and organizations.
 * 🤖 **AI & Smart Solutions** – Lightweight, accessible AI tools that work even in resource-constrained environments.
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -50,7 +50,7 @@ We love building with:
 * **Databases:** MySQL, OracleDB, Firebase
 * **Other:** GitHub Actions, Docker, APIs, AI/ML
 
----
+
 
 ## 🤝 How to Contribute
 
@@ -64,24 +64,14 @@ We welcome contributions from developers of all levels!
 
 Check out our **[CONTRIBUTING.md](CONTRIBUTING.md)** for details.
 
----
+
 
 ## 📜 License
 
 All our projects are released under **MIT License** (unless otherwise stated).
 You are free to **use, modify, and distribute** with proper attribution.
 
----
 
-## 📫 Community & Contact
-
-* **GitHub Org:** [Ebyte Code Labs](https://github.com/your-org)
-* **Founder:** Ebedi Meleck
-* **Email:** [your email here]
-* **Twitter/X:** [your handle]
-* **LinkedIn:** [your LinkedIn link]
-
----
 
 🚀 *Ebyte Code Labs – Open Source for Everyone, Impact for Communities.*
 
